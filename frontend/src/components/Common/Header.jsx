@@ -24,7 +24,7 @@ export default function Header() {
   return (
     <section class="nav">
       <div class="navbar">
-        <h3>BikesWay</h3>
+      <a href="/" class="bikesway"><h3>BikesWay</h3></a>
         <div class="signin">
         
               {checkUser ? (

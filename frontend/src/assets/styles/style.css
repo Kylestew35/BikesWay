@@ -27,6 +27,11 @@ Header
   padding: 5px;
 }
 
+a.bikesway {
+  text-decoration: none;
+  cursor: pointer;
+}
+
 .nav .navbar h3 {
   font-family: "Krungthep";
   color: white;
@@ -46,13 +51,18 @@ Header
 .signin img {
   height: 35px;
 }
-.bg{
+
+.sign {
+  text-decoration: none;
+  color: white;
+}
+
+.bg {
   background-color: #48597b;
 }
 
 .bg img {
   width: 100%;
-  
 }
 .logout {
   padding-right: 17px;
@@ -60,7 +70,7 @@ Header
 }
 .sign {
   text-decoration: none;
-  color: #4a4a4a;
+  color: white;
 }
 /**********************
 Home Page
@@ -136,16 +146,15 @@ li {
   font-size: 30px;
   padding: 4%;
 }
-.formcolor{
+.formcolor {
   background-color: white !important;
   bottom: 0;
 }
 .form {
-  
   font-family: "Roboto", sans-serif;
   margin-left: 20%;
 }
-.form .total h3{
+.form .total h3 {
   padding-top: 20px;
 }
 .order table {
@@ -179,6 +188,12 @@ li {
   width: 60%;
 }
 
+.quantity1 {
+  width: 0%;
+  position: relative;
+  right: 36%;
+  border-top: 1px solid #48597b;
+}
 
 .form input {
   width: 45%;
@@ -223,7 +238,7 @@ li {
   cursor: pointer;
   border: 0;
 }
-.color{
+.color {
   color: #48597b;
   font-weight: bold;
 }
@@ -391,7 +406,7 @@ Signin and Signup
   .btn {
     font-size: 12px;
   }
-  .number{
+  .number {
     font-size: 12px;
   }
 

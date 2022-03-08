@@ -10,7 +10,7 @@ Customers can login and order a bicycle from the app
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-kyle.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://frontend-kyle.herokuapp.com/SignUp) here!!
 
 Check out [API LIVE DEMO](https://backend-kyle.herokuapp.com/) here!!
 

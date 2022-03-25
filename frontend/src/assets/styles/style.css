@@ -173,7 +173,7 @@ li {
 .order .quantity {
   width: 0%;
   position: relative;
-  right: 36%;
+ 
 }
 .order .item-price {
   width: 1%;
@@ -191,7 +191,7 @@ li {
 .quantity1 {
   width: 0%;
   position: relative;
-  right: 36%;
+ 
   border-top: 1px solid #48597b;
 }
 
@@ -430,7 +430,7 @@ Signin and Signup
     left: 12vw;
     top: 10%;
     width: 76%;
-    height: 60%;
+ 
   }
   .form {
     margin-left: 5%;
